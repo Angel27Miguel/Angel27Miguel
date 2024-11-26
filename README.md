@@ -1,6 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/crisandev/shared-resources/main/images/gif/web-developer.gif)](https://yahinnielvas-cv.netlify.app/)
 
-###
 
 <h1 align="center">Hi 👋, I'm Angel Miguel de la Rosa</h1>
 
@@ -21,8 +19,6 @@
 <p align="left">I am a passionate web developer with experience in multiple programming languages and technologies, including HTML, CSS, JavaScript, PHP, C#, SQL Server, Entity Framework, Java, and Python. My main strengths are in HTML, JavaScript, PHP, C#, and Entity Framework, where I specialize in creating robust and efficient web solutions. Currently, I continue my training at ITLA University, where I focus on improving my skills and facing new technological challenges.</p>
 
 ###
-
-<h3 align="center">Acerca de me</h3>
 
 - 🔭 I’m currently working on [Code Solution AAD](https://www.instagram.com/code_solution_aad?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
