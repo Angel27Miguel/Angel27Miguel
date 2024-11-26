@@ -1,13 +1,10 @@
-[![MasterHead](https://raw.githubusercontent.com/crisandev/shared-resources/main/images/gif/web-developer.gif)](https://yahinnielvas-cv.netlify.app/)
-
-###
 
 <h1 align="center">Hi 👋, I'm Angel Miguel de la Rosa</h1>
 
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/angel27migue" target="_blank">
+  <a href="(https://www.linkedin.com/in/angel27miguel/)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
