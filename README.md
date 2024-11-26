@@ -1,18 +1,105 @@
+[![MasterHead](https://raw.githubusercontent.com/crisandev/shared-resources/main/images/gif/web-developer.gif)](https://yahinnielvas-cv.netlify.app/)
+
+###
+
 <h1 align="center">Hi 👋, I'm Angel Miguel de la Rosa</h1>
+
+###
+
+<div align="center">
+  <a href="www.linkedin.com/in/angel27migue" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+
+<p align="left">I am a passionate web developer with experience in multiple programming languages and technologies, including HTML, CSS, JavaScript, PHP, C#, SQL Server, Entity Framework, Java, and Python. My main strengths are in HTML, JavaScript, PHP, C#, and Entity Framework, where I specialize in creating robust and efficient web solutions. Currently, I continue my training at ITLA University, where I focus on improving my skills and facing new technological challenges.</p>
+
+###
+
 <h3 align="center">Acerca de me</h3>
 
-- 🔭 Iicim actualmente trabajando en [Code Solution AAD](https://www.instagram.com/code_solution_aad?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+- 🔭 I’m currently working on [Code Solution AAD](https://www.instagram.com/code_solution_aad?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
-- 💬 Pregúntame sobre **HTML, JavaScript, PHP, C# & Bootstrap**
+- 💬 Ask me about *HTML, JavaScript, PHP, C# & Bootstrap*
 
-- 📫 Cómo contactarme **angelmiguel2722@gmail.com**
+- 📫 How to reach me *angelmiguel2722@gmail.com*
 
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/angel miguel de la rosa morillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angel miguel de la rosa morillo" height="30" width="40" /></a>
-</p>
+- ❤️ Enjoy my codes
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=angel27miguel&show_icons=true&locale=en&layout=compact" alt="angel27miguel" /></p>
+<br>
+<br>
+
+------------
+<h3 align="left">🖥️   Technologies</h3>
+
+###
+
+<h4 align="left">Programming Languages</h4>
+
+###
+
+[![My Skills](https://skillicons.dev/icons?i=cs,py,php,js&perline=8)](https://skillicons.dev)
+
+###
+
+<h4 align="left">Frontend Development</h4>
+
+###
+
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,html,js,css&perline=8)](https://skillicons.dev)
+
+###
+
+<h4 align="left">Backend Development</h4>
+
+###
+
+[![My Skills](https://skillicons.dev/icons?i=cs,php,py,&perline=8)](https://skillicons.dev)
+
+###
+
+<h4 align="left">Database</h4>
+
+###
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40">
+
+###
+
+<h4 align="left">Git & Devops</h4>
+
+###
+
+[![My Skills](https://skillicons.dev/icons?i=git,github&perline=8)](https://skillicons.dev)
+
+###
+
+<h4 align="left">Framework</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=dotnet&perline=8)](https://skillicons.dev)
+
+###
+
+<h4 align="left">Software & Tools</h4>
+
+###
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse)](https://skillicons.dev)
+
+###
+
+<h4 align="left">Familiarity</h4>
+
+###
+
+[![My Skills](https://skillicons.dev/icons?i=cs,html,js,bootstrap)](https://skillicons.dev)
+
+</div>
+
+###
+
