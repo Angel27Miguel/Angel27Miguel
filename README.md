@@ -31,7 +31,6 @@
 ###
 
 <br>
-<br>
 
 ------------
 <h3 align="left">🖥️   Technologies</h3>
